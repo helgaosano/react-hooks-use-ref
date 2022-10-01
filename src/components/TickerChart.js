@@ -43,3 +43,8 @@ function Ticker() {
 }
 
 export default Ticker;
+
+/**
+ * Use of <canvas> element to draw out a graph of the price changes over time.
+ * This is also a useRef hook example on how to access DOM element.
+ */
